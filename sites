@@ -1,8 +1,8 @@
-https://github.com/v3n0m-Scanner/V3n0M-Scanner - Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns
-https://blog.didierstevens.com - DFIR & Forensics
-https://www.darkreading.com/attacks-breaches/deconstructing-the-cyber-kill-chain/a/d-id/1317542 - Cyber Kill Chain
-https://zeltser.com/automated-malware-analysis/ - REM
-https://zeltser.com/malware-analysis-cheat-sheet - REM
+https://github.com/v3n0m-Scanner/V3n0M-Scanner
+https://blog.didierstevens.com
+https://www.darkreading.com/attacks-breaches/deconstructing-the-cyber-kill-chain/a/d-id/1317542
+https://zeltser.com/automated-malware-analysis/
+https://zeltser.com/malware-analysis-cheat-sheet
 http://arx.deidentifier.org/overview/
 http://beza1e1.tuxen.de/lore/
 http://blog.ativainvestimentos.com.br/5-opcoes-de-investimentos-pra-comecar-investindo-pouco/
@@ -13,7 +13,7 @@ http://blog.monokkel.io/continuous-security-testing-of-your-application-with-owa
 http://blog.portswigger.net/2016/11/backslash-powered-scanning-hunting.html
 http://blog.talosintelligence.com/2017/07/pyrebox.html
 http://blog.talosintelligence.com/2017/11/talos-wins-5th-volatility-plugin.html
-http://blog.trendmicro.com/trendlabs-security-intelligence/backdoor-carrying-emails-set-sights-on-russian-speaking-businesses/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29
+http://blog.trendmicro.com/trendlabs-security-intelligence/backdoor-carrying-emails-set-sights-on-russian-speaking-businesses/
 http://blog.trendmicro.com/trendlabs-security-intelligence/cve-2017-0199-new-malware-abuses-powerpoint-slide-show/
 http://blog.trendmicro.com/trendlabs-security-intelligence/online-exposed-mainframes-business-process-compromise/
 http://blog.trendmicro.com/trendlabs-security-intelligence/red-on-red-the-attack-landscape-of-the-dark-web/
@@ -38,7 +38,7 @@ http://news.sys-con.com/node/4123175
 http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-150.pdf
 http://portal.sinal.org.br/servicos/convenios/?estado=bsb
 http://ransomwaretracker.abuse.ch/
-http://readwrite.com/2016/11/09/machine-learning-used-pl1/?utm_campaign=coschedule&utm_source=twitter&utm_medium=RWW&utm_content=How%20to%20use%20machine%20learning%20in%20today%27s%20enterprise%20environment
+http://readwrite.com/2016/11/09/machine-learning-used-pl1/
 http://researchcenter.paloaltonetworks.com/2017/05/unit42-dissection-esteemaudit-windows-remote-desktop-exploit/
 http://resources.infosecinstitute.com/billu-b0x-walkthrough/
 http://resources.infosecinstitute.com/information-gathering-maltego/#gref
@@ -55,21 +55,21 @@ http://www.dfir.training/index.php/tools/virtualization-forensics/532-sof-elk-se
 http://www.enterprisesolutions.vic.gov.au/wp-content/uploads/2017/08/153-DPC-Cyber-Security-Strategy-12-%C6%92-web.pdf
 http://www.eramba.org/
 http://www.esecurityplanet.com/network-security/new-cyber-security-regulations-now-in-force-in-new-york.html
-http://www.globenewswire.com/news-release/2017/08/15/1084797/0/en/Anomali-and-NSS-Labs-Partner-to-Deliver-Targeted-Threat-Information-Through-Continuous-Security-Validation.html?utm_content=59055526&utm_medium=social&utm_source=twitter
+http://www.globenewswire.com/news-release/2017/08/15/1084797/0/en/Anomali-and-NSS-Labs-Partner-to-Deliver-Targeted-Threat-Information-Through-Continuous-Security-Validation.html
 http://www.greenreedtech.com/docker-security-with-splunk/
 http://www.hackingarticles.in/analysing-tcp-headers-using-wireshark/
 http://www.hackingtutorials.org/
 http://www.hackingtutorials.org/category/malware-analysis-tutorials/
 http://www.hackingtutorials.org/hacking-courses/offensive-security-certified-professional-oscp/
 http://www.hackingtutorials.org/malware-analysis-tutorials/basic-malware-analysis-tools/
-http://www.infomoney.com.br/carreira/educacao/noticia/6917617/usp-disponibiliza-aulas-completas-disciplinas-graduacao-pos-graduacao-youtube?utm_source=twitter&utm_medium=social&utm_content=noticia&utm_campaign=canal_carrei
+http://www.infomoney.com.br/carreira/educacao/noticia/6917617/usp-disponibiliza-aulas-completas-disciplinas-graduacao-pos-graduacao-youtube
 http://www.informationsecuritybuzz.com/articles/dynamic-authentication-loved-users-trusted/
 http://www.itsecurityguru.org/2017/10/13/immersive-labs-introduces-digital-cyber-academy/
-http://www.kitploit.com/2017/10/floss-fireeye-labs-obfuscated-string.html?utm_source=dlvr.it&utm_medium=twitter
-http://www.kitploit.com/2017/10/tweep-advanced-twitter-scraping-tool.html?m=1
+http://www.kitploit.com/2017/10/floss-fireeye-labs-obfuscated-string.html
+http://www.kitploit.com/2017/10/tweep-advanced-twitter-scraping-tool.html
 http://www.kitploit.com/2017/11/cr3dov3r-know-dangers-of-credential.html
-http://www.kitploit.com/2017/11/net-shield-easy-and-simple-anti-ddos.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PentestTools+%28PenTest+Tools%29
-http://www.kitploit.com/2017/11/striker-offensive-information-and.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PentestTools+%28PenTest+Tools%29
+http://www.kitploit.com/2017/11/net-shield-easy-and-simple-anti-ddos.html
+http://www.kitploit.com/2017/11/striker-offensive-information-and.html
 http://www.kizhakkinan.com/?p=39
 http://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html
 http://www.mathsisfun.com/numbers/imaginary-numbers.html
@@ -208,10 +208,10 @@ https://oguiadofutebol.com/2017/07/29/manual-basico-sobre-apostas/amp/
 https://openai.com/jobs/
 https://osquery.io/
 https://pages.balabit.com/understanding-privileged-identity-theft-tw.html
-https://pen-testing.sans.org/blog/2016/04/05/scapy-cheat-sheet-from-sans-sec560?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+Blog+Scapy+Cheat+Sheet&utm_campaign=SANS+Pen+Test
-https://pen-testing.sans.org/blog/2016/12/10/mining-android-secrets-decoding-android-app-resources?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Mining+Android+McJunkin&utm_campaign=SANS+Pen+Test
-https://pen-testing.sans.org/blog/2017/02/08/sans-cheat-sheet-metasploit/?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Metasploit+Cheat+Sheet&utm_campaign=SANS+Pen+Test
-https://pen-testing.sans.org/blog/2017/09/29/modern-web-application-penetration-testing-part-2-hash-length-extension-attacks?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Adv+Web+App+Hash+Length+Extension+Attacks&utm_campaign=SANS+Pen+Test
+https://pen-testing.sans.org/blog/2016/04/05/scapy-cheat-sheet-from-sans-sec560
+https://pen-testing.sans.org/blog/2016/12/10/mining-android-secrets-decoding-android-app-resources
+https://pen-testing.sans.org/blog/2017/02/08/sans-cheat-sheet-metasploit/
+https://pen-testing.sans.org/blog/2017/09/29/modern-web-application-penetration-testing-part-2-hash-length-extension-attacks
 https://pen-testing.sans.org/blog/2017/10/13/sqlmap-tamper-scripts-for-the-win
 https://pen-testing.sans.org/blog/2017/12/05/why-you-need-the-skills-to-tinker-with-publicly-released-exploit-code
 https://pentesterlab.com/badges/essential
@@ -247,12 +247,12 @@ https://vim-adventures.com/
 https://wazuh.com/
 https://wikileaks.org/vault7/releases/#Pandemic
 https://www.abuse.ch/
-https://www.alienvault.com/blogs/labs-research/reverse-engineering-malware?utm_medium=Social&utm_source=Twitter&utm_content=Awareness
+https://www.alienvault.com/blogs/labs-research/reverse-engineering-malware
 https://www.amazon.com.br/gp/product/B01LX4JALA/ref=s9_ri_gw_g351_i12_r/168-2354099-9093737?pf_rd_m=A1ZZFT5FULY4LN&pf_rd_s=&pf_rd_r=CYDBYNVV4DK3R4PF47HR&pf_rd_t=36701&pf_rd_p=eaa2b292-1ebe-4b3e-947a-288d8caa08ed&pf_rd_i=desktop
-https://www.attackiq.com/blog/2017/05/17/automating-the-extraction-of-wannacry-iocs/?utm_content=54816225&utm_medium=social&utm_source=twitter
+https://www.attackiq.com/blog/2017/05/17/automating-the-extraction-of-wannacry-iocs/
 https://www.blackhat.com/docs/us-17/thursday/us-17-Cherny-Well-That-Escalated-Quickly-How-Abusing-The-Docker-API-Led-To-Remote-Code-Execution-Same-Origin-Bypass-And-Persistence.pdf
 https://www.bleepingcomputer.com/news/security/dnstwist-helps-you-find-phishing-sites-based-on-your-domain/
-https://www.bleepingcomputer.com/news/security/microsoft-releases-standards-for-highly-secure-windows-10-devices/?utm_content=buffer0cfb7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+https://www.bleepingcomputer.com/news/security/microsoft-releases-standards-for-highly-secure-windows-10-devices/
 https://www.capsule8.io/
 https://www.checkmarx.com/2014/11/13/the-ultimate-list-of-open-source-static-code-analysis-security-tools/
 https://www.checkmarx.com/2016/03/03/static-code-analysis-tools-appsec-checklist/
@@ -263,7 +263,7 @@ https://www.checkmarx.com/2016/06/30/uncategorizedwhat-is-static-code-review/
 https://www.checkmarx.com/2016/07/26/13-helpful-pentesting-resources/
 https://www.checkmarx.com/2016/11/08/ultimate-cheat-sheet-threat-modeling/
 https://www.checkmarx.com/category/blog/resources-tools/
-https://www.cisecurity.org/cis-benchmarks/?utm_content=53988634
+https://www.cisecurity.org/cis-benchmarks/
 https://www.cisecurity.org/critical-controls/documents/CSC-MASTER-VER61-FINAL.pdf
 https://www.cisecurity.org/cybersecurity-best-practices/
 https://www.cisecurity.org/cybersecurity-threats/
@@ -271,7 +271,7 @@ https://www.cisecurity.org/cybersecurity-tools/
 https://www.cnbc.com/2017/02/15/yahoo-sends-new-warning-to-customers-about-data-breach.html
 https://www.coresecurity.com/blog/how-build-red-team
 https://www.coursera.org/instructor/anarayanan
-https://www.coursera.org/learn/gamification?utm_medium=email&utm_source=marketing&utm_campaign=Ixa2YEPtEea1Nr_6p0oZUA
+https://www.coursera.org/learn/gamification
 https://www.cyberark.com/press/cyberark-launches-open-source-secrets-management-solution-devops/
 https://www.cyberark.com/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-cloud-apps/
 https://www.darknet.org.uk/2017/06/lazydroid-android-security-assessment-tool/
@@ -316,9 +316,9 @@ https://www.praetorian.com/resources#github
 https://www.rigs-it.net/index.php/product/vulnerabilities.html
 https://www.rollerblade.com/brasil/
 https://www.safaribooksonline.com/library/view/the-devops-handbook/9781457191381/
-https://www.sans.org/event/network-security-2017/course/siem-with-tactical-analytics?utm_medium=Social&utm_source=Twitter&utm_content=NetSec&utm_campaign=SEC555
+https://www.sans.org/event/network-security-2017/course/siem-with-tactical-analytics
 https://www.sans.org/security-resources/posters
-https://www.sans.org/webcasts/siem-design-architecture-105505?utm_medium=Social&utm_source=Twitter&utm_content=SIEM-Webcast-Part-1-SIEM-Design-Architecture&utm_campaign=SEC555
+https://www.sans.org/webcasts/siem-design-architecture-105505
 https://www.scmagazineuk.com/monitoring-logons-the-most-effective-way-to-detect-data-breach/article/684852/
 https://www.securityforum.org/uploads/2017/03/ISF_Preparing-for-the-General-Data-Protection-Regulation_Digest.pdf
 https://www.smokescreen.io/deception-and-kerckhoffss-cryptographic-principle/
